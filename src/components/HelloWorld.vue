@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img class="logo" src="@/assets/logo.jpg"/>
+    <img class="logo" src="@/assets/act_logo.png"/>
     <div class="main">
       <div class="result">
         <div class="result-number">
